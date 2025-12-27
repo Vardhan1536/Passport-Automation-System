@@ -1,4 +1,4 @@
-# Passport Automation System (Demo)
+<img width="1893" height="912" alt="register-page" src="https://github.com/user-attachments/assets/acb71879-a54c-433a-a5d4-fa166790b1ad" /># Passport Automation System
 
 A complete demo web application simulating the Indian Passport Seva portal with realistic workflows and professional government-style design.
 
@@ -20,6 +20,10 @@ A complete demo web application simulating the Indian Passport Seva portal with 
 - **Database**: MongoDB Atlas
 - **Authentication**: JWT
 - **Styling**: Government-style design (navy blue, white, light gray)
+  <img width="1895" height="910" alt="Home" src="https://github.com/user-attachments/assets/4e15bad4-7ff9-420b-8f78-cf12a81c553a" />
+  <img width="1893" height="912" alt="register-page" src="https://github.com/user-attachments/assets/45ef81c3-1690-4fb9-afec-bb8f1f49d152" />
+
+
 
 ## 🚀 Quick Start
 
